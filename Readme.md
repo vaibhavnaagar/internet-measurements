@@ -13,7 +13,7 @@
 * `flow.2001-09-29.csv.gz` : Contains `ft-v05.2010-09-29.235501+0000.csv` flow record file for traffic measurement.
 * `updates-asst4.tar.gz` : Contains BGP update files in text format.
 * `rib-asst4.tar.gz` : Contains RIB (Routing Information Base) files in text format.
-* Pyhton version 3.5.2 and python-package: pandas
+* Python version 3.5.2 and python-packages: pandas, numpy, operator and matplotlib
 
 
 [l1]: <http://www.internet2.edu/>
